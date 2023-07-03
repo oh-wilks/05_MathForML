@@ -43,8 +43,8 @@ b = [8, 3]
 
 '''
 
-A = [[2, 3], [2, 4]]
-b = [15, 16]
+A = [[2, 5], [8, 1]]
+b = [46, 32]
 
 # Solve the linear system
 x = solve_linear_system(A, b)
